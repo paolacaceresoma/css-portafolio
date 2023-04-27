@@ -1,4 +1,4 @@
-# My POrtafolio
+# My Portafolio
 ## Description
 
 This website is my portafolio of work that will showcase my skills with deployed web applications and other projects that I have created during my coding journey. You can also find my contact information.
